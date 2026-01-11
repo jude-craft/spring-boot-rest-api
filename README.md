@@ -79,7 +79,7 @@ Returns a list of all students in JSON format with the following structure:
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jude-craft/spring-boot-rest-api.git
    cd demo
    ```
 
