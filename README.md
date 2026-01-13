@@ -192,4 +192,4 @@ This project is provided as-is for educational purposes.
 
 ## Author
 
-Created as a demonstration of Spring Boot REST API development patterns.
+Jude-craft
