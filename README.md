@@ -58,8 +58,8 @@ Returns a list of all students in JSON format with the following structure:
 [
   {
     "id": 1,
-    "name": "John Williams",
-    "email": "john@example.com",
+    "name": "Derick Juma",
+    "email": "juma@example.com",
     "dob": "2000-05-15",
     "age": 26
   }
